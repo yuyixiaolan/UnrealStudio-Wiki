@@ -23,6 +23,7 @@ export default defineConfig({
                         { text: '概览', link: '/guide/' },
                         { text: '入职流程', link: '/guide/onboarding' },
                         { text: '常用工具', link: '/guide/tools' },
+                        { text: '开发规范', link: '/guide/ue-style' },
                     ]
                 }
             ],
